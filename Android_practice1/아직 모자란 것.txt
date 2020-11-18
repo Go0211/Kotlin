@@ -1,0 +1,21 @@
+주말에 탐구해 보기
+Null Safty
+Sealed Class
+Object Keyword
+Lambda Function
+Extension Functions and Properties
+공개범위
+in, to 같은 단어들?
+delegator
+
+lateinit
+
+●Android
+메인 앱 해부
+활동 및 배치
+선형레이아웃
+뷰 결합
+토스트
+OnClick
+android vs tool ????
+Vector Drawables

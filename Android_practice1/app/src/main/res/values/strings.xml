@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="roll">roll</string>
+    <string name="name">Go</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio"> Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n
+         Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n
+         Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n Hello \n
+    </string>
+    <string name="what_is_your_nickname">What Is Your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
