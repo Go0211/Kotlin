@@ -19,3 +19,5 @@ lateinit
 OnClick
 android vs tool ????
 Vector Drawables
+
+데이터 바인딩
